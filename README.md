@@ -9,8 +9,8 @@
 
 ## Instructions for use
 
-- The currently loaded setup contains 9 bodies of mostly similar mass that you can play around with. The "new body" button currently doesn't work, so if you want to add new bodies or change the scenario you have to do it directly through the code by downloading your own local copy of the files. Some examples are listed in "Scenarios.txt".
-- This isn't on the controls page but using 1 and 2 will speed up and slow down the time rate of the simulation.
+- The currently loaded setup contains 9 bodies of mostly similar mass that you can play around with. New bodies can be added by changing the code file. Some examples are listed in "Scenarios.txt".
+- Using 1 and 2 will speed up and slow down the time rate of the simulation.
 
 ![image](https://github.com/user-attachments/assets/72b1c05b-3e14-48ab-b7ad-db6225bbfc40)
 
